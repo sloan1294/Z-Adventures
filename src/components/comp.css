@@ -1,0 +1,62 @@
+
+.nav ul li a.active{
+  text-decoration: underline;
+  text-decoration-thickness: 3px;
+  
+
+}
+
+.card1{
+  background-image: url("../assets/Outdoors.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+.card2{
+  background-image: url("../assets/blog.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+.card3{
+  background-image: url("../assets/signup.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+.bgc{
+  background: rgb(255,255,255);
+  background: linear-gradient(0deg, rgba(255,255,255,1) 11%, rgba(0,3,0,0.9668242296918768) 89%);
+}
+
+
+
+.bgc2{
+  background-image: url("../assets/signup.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+.bgc3{
+  background-image: url("../assets/signup.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+.bgc4{
+  background: rgb(255,255,255);
+background: linear-gradient(180deg, rgba(255,255,255,1) 11%, rgba(0,3,0,0.9668242296918768) 89%);
+}
+
+
+

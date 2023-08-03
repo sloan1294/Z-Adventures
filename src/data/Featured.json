@@ -1,0 +1,230 @@
+[
+  {
+    "_comment": "Most Popular",
+    "id": 1,
+    "name": "StretchDown Hooded Jacket - Men's",
+    "price": 109.99,
+    "imgUrl": "https://content.steepandcheap.com/images/items/900/MHW/MHWZ9LR/GOLBRO.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Down Sweater Jacket - Men's",
+    "price": 149.99,
+    "imgUrl": "https://content.steepandcheap.com/images/items/1200/PAT/PATZA1U/OARTAN.jpg"
+  },
+  {
+    "id": 3,
+    "name": "ALLIED Down Jacket - Men's",
+    "price": 119.99,
+    "imgUrl": "https://content.steepandcheap.com/images/items/1200/MHW/MHWZ9KT/BLASPR.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Yukon II Navy Parka - Men's",
+    "price": 129.99,
+    "imgUrl": "https://content.steepandcheap.com/images/items/1200/MAR/MARZ9DY/ARCNAV.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Marblemount Down Parka - Women's",
+    "price": 99.99,
+    "imgUrl": "https://content.steepandcheap.com/images/items/900/MHW/MHWZ9WA/DARDAW.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Prairie Dawn Insulated Parka - Women's",
+    "price": 119.99,
+    "imgUrl": "https://content.steepandcheap.com/images/items/1200/PAT/PATZ9RT/NESBRO.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Recycled High Pile Fleece Down Jacket - Women's",
+    "price": 79.99,
+    "imgUrl": "https://content.steepandcheap.com/images/items/1200/PAT/PATZ9RQ/BEATAN.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Great Falls Insulated Parka - Women's",
+    "price": 149.99,
+    "imgUrl": "https://content.steepandcheap.com/images/items/1200/PAT/PATZ9LK/BASGRE.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Sportsman PDL 106 Angler Pedal Kayak",
+    "price": 2359.99,
+    "imgUrl": "https://dks.scene7.com/is/image/GolfGalaxy/20OTOASPRTSMNPDL1PSK_Photic?qlt=70&wid=1100&fmt=webp"
+  },
+  {
+    "id": 10,
+    "name": "Sportsman PDL 120 Angler Pedal Kayak",
+    "price": 2749.99,
+    "imgUrl": "https://dks.scene7.com/is/image/GolfGalaxy/20OTOASPRTSMNPDL1PSKA_Ember?qlt=70&wid=1100&fmt=webp"
+  },
+  {
+    "id": 11,
+    "name": "Dragonfly OSMO Bikepack Tent: 2-Person 3-Season",
+    "price": 499.99,
+    "imgUrl": "https://content.backcountry.com/images/items/1200/NEM/NEMK03S/MARBOR.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Alpinlite Sleeping Bag: 20F Down",
+    "price": 499.99,
+    "imgUrl": "https://content.backcountry.com/images/items/1200/WES/WES0041/ONECOL.jpg"
+  },
+
+  {
+    "_comment": "Clothing",
+    "id": 13,
+    "name": "StretchDown Hooded Jacket - Men's",
+    "price": 109.99,
+    "imgUrl": "https://content.steepandcheap.com/images/items/900/MHW/MHWZ9LR/GOLBRO.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Down Sweater Jacket - Men's",
+    "price": 149.99,
+    "imgUrl": "https://content.steepandcheap.com/images/items/1200/PAT/PATZA1U/OARTAN.jpg"
+  },
+  {
+    "id": 15,
+    "name": "ALLIED Down Parka - Men's",
+    "price": 119.99,
+    "imgUrl": "https://content.steepandcheap.com/images/items/1200/BCC/BCCZ2K7/BLA.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Yukon II Navy Parka - Men's",
+    "price": 129.99,
+    "imgUrl": "https://content.steepandcheap.com/images/items/1200/MAR/MARZ9DY/ARCNAV.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Marblemount Down Parka - Women's",
+    "price": 99.99,
+    "imgUrl": "https://content.steepandcheap.com/images/items/900/MHW/MHWZ9WA/DARDAW.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Prairie Dawn Insulated Parka - Women's",
+    "price": 119.99,
+    "imgUrl": "https://content.steepandcheap.com/images/items/1200/PAT/PATZ9RT/NESBRO.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Recycled High Pile Fleece Down Jacket - Women's",
+    "price": 79.99,
+    "imgUrl": "https://content.steepandcheap.com/images/items/1200/PAT/PATZ9RQ/BEATAN.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Great Falls Insulated Parka - Women's",
+    "price": 149.99,
+    "imgUrl": "https://content.steepandcheap.com/images/items/1200/PAT/PATZ9LK/BASGRE.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Anacapa Mid GTX Hiking Boot - Men's",
+    "price": 119.99,
+    "imgUrl": "https://content.steepandcheap.com/images/items/1200/HOK/HOKZ04Q/RETEOUSP.jpg"
+  },
+  {
+    "id": 22,
+    "name": "All-Weather Mid Hiking Shoe - Men's",
+    "price": 109.99,
+    "imgUrl": "https://content.steepandcheap.com/images/items/1200/ATR/ATRQ01R/MARA.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Sapphire Mid B-Dry Hiking Boot - Women's",
+    "price": 79.99,
+    "imgUrl": "https://content.steepandcheap.com/images/items/1200/OBZ/OBZ001P/HUC.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Lone Peak Hiking Boot - Women's",
+    "price": 59.99,
+    "imgUrl": "https://content.steepandcheap.com/images/items/1200/ATR/ATRQ01G/ICEFLOBLU.jpg"
+  },
+  {
+    "_comment": "Equipment",
+    "id": 25,
+    "name": "Fireside Side Table Camp Chair",
+    "price": 29.99,
+    "imgUrl": "https://content.steepandcheap.com/images/items/1200/SIC/SICZ29F/GREMOS.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Breeze Rocker - Adjustable back, relocating straps",
+    "price": 79.99,
+    "imgUrl": "https://content.steepandcheap.com/images/items/1200/ALM/ALMZ0AY/NAV.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Road Trip Table - Heavy Duty reinforced steel",
+    "price": 59.99,
+    "imgUrl": "https://content.steepandcheap.com/images/items/1200/ALM/ALMZ09O/CLA.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Sportsman PDL 106 Angler Pedal Kayak",
+    "price": 2359.99,
+    "imgUrl": "https://dks.scene7.com/is/image/GolfGalaxy/20OTOASPRTSMNPDL1PSK_Photic?qlt=70&wid=1100&fmt=webp"
+  },
+  {
+    "id": 29,
+    "name": "Sportsman PDL 120 Angler Pedal Kayak",
+    "price": 2749.99,
+    "imgUrl": "https://dks.scene7.com/is/image/GolfGalaxy/20OTOASPRTSMNPDL1PSKA_Ember?qlt=70&wid=1100&fmt=webp"
+  },
+  {
+    "id": 30,
+    "name": "Dragonfly OSMO Bikepack Tent: 2-Person 3-Season",
+    "price": 499.99,
+    "imgUrl": "https://content.backcountry.com/images/items/1200/NEM/NEMK03S/MARBOR.jpg"
+  },
+  {
+    "id": 31,
+    "name": "MOUNTAIN ULTRA 2-PERSON TENT - 120lbs",
+    "price": 159.99,
+    "imgUrl": "https://tetonsports.com/cdn/shop/products/2006gy-teton-sports-mountain-ultra-2-person-tent-grey-silver-38038878486766_700x.jpg?v=1663011527"
+  },
+  {
+    "id": 32,
+    "name": "EXPLORER 65L BACKPACK - Carries up to 200lbs",
+    "price": 109.99,
+    "imgUrl": "https://tetonsports.com/cdn/shop/products/2106scol-teton-sports-explorer-65l-backpack-olive-38868559790318_700x.jpg?v=1677849633"
+  },
+  {
+    "id": 33,
+    "name": "OASIS 18L HYDRATION PACK WITH 2L BLADDER",
+    "price": 59.99,
+    "imgUrl": "https://tetonsports.com/cdn/shop/products/teton-sports-oasis-18l-hydration-pack-with-2l-bladder-38868823539950_700x.jpg?v=1682089622"
+  },
+  {
+    "id": 34,
+    "name": "Alpinlite Sleeping Bag: 20F Down",
+    "price": 499.99,
+    "imgUrl": "https://content.backcountry.com/images/items/1200/WES/WES0041/ONECOL.jpg"
+  },
+  {
+    "id": 35,
+    "name": "0˚F SLEEPING BAG - Traps Heats All Night",
+    "price": 99.99,
+    "imgUrl": "https://tetonsports.com/cdn/shop/products/2205lsfrsl-teton-sports-leef-0-f-mummy-sleeping-bag-regular-fire-slate-37342478467310_700x.jpg?v=1690487164"
+  },
+  {
+    "id": 36,
+    "name": "Heavy Duty Sleeping Bag - Double Padding",
+    "price": 159.99,
+    "imgUrl": "https://tetonsports.com/cdn/shop/products/teton-sports-bridger-0-f-canvas-sleeping-bag-37793915404526_700x.jpg?v=1659638557"
+  },
+  {
+    "id": 37,
+    "name": "XXL CAMP COT WITH PIVOT ARM",
+    "price": 259.99,
+    "imgUrl": "https://tetonsports.com/cdn/shop/products/120a-teton-sports-outfitter-xxl-camp-cot-with-pivot-arm-38351591440622_700x.jpg?v=1667578014"
+  }
+  
+
+]

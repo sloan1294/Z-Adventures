@@ -1,0 +1,23 @@
+.bg1{
+    background: rgb(165,166,165);
+    background: radial-gradient(circle, rgba(165,166,165,1) 0%, rgb(6, 11, 43) 100%);
+    
+}
+
+.bg2{
+    background-image: url("../assets/banner.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+.bgc7{
+  
+        background-image: url("https://static.vecteezy.com/system/resources/previews/010/881/504/original/group-people-chat-on-mobile-phone-illustration-chat-feedback-man-and-woman-person-communication-social-business-background-speech-talk-concept-conversation-discussion-teamwork-banner-vector.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-size: cover;
+    
+}
