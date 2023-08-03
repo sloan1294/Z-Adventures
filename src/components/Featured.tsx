@@ -1,4 +1,4 @@
-import React from "react";
+
 import f1 from "../assets/features/f1.png";
 
 const Featured = () => {

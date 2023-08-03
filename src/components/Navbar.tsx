@@ -1,10 +1,9 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { Button } from "react-bootstrap";
 import { AiOutlineClose, AiOutlineMenu } from "react-icons/ai";
 import { useShoppingCart } from "../context/ShoppingCartContext"
-import { NavLink, Route, Routes } from "react-router-dom";
-import { Store } from "../pages/Store";
-import { Home } from "../pages/Home";
+import { NavLink } from "react-router-dom";
+
 import "./comp.css"
 
 
@@ -45,7 +44,7 @@ const heads = handleCheck()
     
     <div className="z-10 md:sticky top-0 font-serif">
       
-      <div className="flex justify-between items-center h-24 max-w-[1650px] mx-[7%] px-4 font-bold  text-[#adb5bd]">
+      <div className="flex justify-between items-center h-24 max-w-[1900px] ml-[6%] px-4 font-bold  text-[#adb5bd]">
         <h1 className=" w-full pr-22 text-3xl font-bold">
           <a href="/" className="font-extrabold text-transparent bg-clip-text bg-gradient-to-br from-[#fff] to-[#000300] hover:text-[#adb5bd]">
             {heads}
