@@ -10,9 +10,9 @@ const About = () => {
       <div className="grid grid-cols-2 max-[850px]:grid-cols-none pt-[4%] justify-items-center pl-[1%]">
       <div>
           <img
-            src="https://nycofficesuites.com/wp-content/uploads/2018/11/shutterstock_375557014-min.jpg"
+            src="https://teambuildinghub.com/wp-content/uploads/2022/01/Team-Building-Page-Image-2-1024x538.png"
             alt="team"
-            className="w-[700px] rounded-xl  border-solid border-8 border-[#000300]"
+            className="w-[700px] h-[450px] rounded-xl  border-solid border-8 border-[#000300]"
           />
         </div>
         <div className="max-[750px]:ml-[10%] h-[500px] w-[85%] text-center mr-[15%]">
